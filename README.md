@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3471170d-4752-4659-8bac-82639eb93d27/deploy-status)](https://app.netlify.com/sites/slopezz/deploys)
+
 # [slopezz.dev](https://slopezz.dev)
 
 Static site for slopezz.dev using:
