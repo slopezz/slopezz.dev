@@ -29,8 +29,9 @@ interests:
 - Cloud Computing
 - Cloud Native Applications
 - Kubernetes
-- Automation
 - Monitoring/Observability
+- Automation
+
 
 education:
   courses:
@@ -71,9 +72,9 @@ email: ""
 #- Visitors
 ---
 
-10 years of experience around Systems Administration and Devops practices.
+More than 10 years of experience around Systems Administration and Devops practices.
 
-**Passionate** about **Cloud Computing, Cloud Native Applications, Containers** and everything working around them ensuring a site keeps running smoothly 24x7.
+**Passionate** about **Cloud Computing, Cloud Native Applications, Monitoring** and everything working around them ensuring a site keeps running smoothly 24x7.
 
 **There's nothing I hate more than doing manual stuff**, if I think something may need to be done twice, I always see it as an opportunity to automate it, **my motto** is: **if there is an API, let's automate it!!**
 
