@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Site Reliability Engineer
+role: Principal Site Reliability Engineer
 
 # Organizations/Affiliations
 organizations:
