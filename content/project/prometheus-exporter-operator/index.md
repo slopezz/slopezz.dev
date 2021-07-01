@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ansible-k8s-hello-world-operator"
+title: "prometheus-exporter-operator"
 summary: |
-  Ansible hello-world operator for Kubernetes.
+  Ansible operator to centralize the setup of 3rd party prometheus exporters on Kubernetes/OpenShift, with a collection of grafana dashboards
 authors: [ sergio ]
-tags: [ ansible, docker, kubernetes, operators ]
+tags: [ ansible, docker, kubernetes, operators, monitoring ]
 categories: [ source ]
-date: 2019-09-14T00:00:00+02:00
+date: 2019-12-24T00:00:00+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +19,7 @@ external_link: ""
 # preview_only: false
 
 # Links
-url_code: https://github.com/slopezz/ansible-k8s-hello-world-operator
+url_code: https://github.com/3scale-ops/prometheus-exporter-operator
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -33,6 +33,4 @@ links:
 slides: ""
 ---
 
-* Ansible operator to setup hello-world-operator on Kubernetes.
-
-* It includes a Makefile to manage Docker image generation, CRD, Operator objects and CR management
+* Ansible operator to centralize the setup of 3rd party prometheus exporters on Kubernetes/OpenShift, with a collection of grafana dashboards

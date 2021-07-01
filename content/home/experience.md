@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Site Reliability Engineer"
+  title = "Principal Site Reliability Engineer"
   company = "Red Hat"
   company_url = "htts://www.redhat.com"
   location = "Barcelona"
@@ -27,15 +27,20 @@ date_format = "Jan 2006"
   description = """
   *Accountabilities*
 
-  * **Design, deployment and operation of 3scale API Management SaaS**: AWS.
-  * **Provision and administration**: Linux systems and containers.
-  * **Database administration**: MySQL, PostgreSQL, Redis, Elasticsearch, Memcached.
+  * **Design, deployment and operation of 3scale API Management SaaS**
+  * **Public cloud**: AWS.
   * **Infrastructure as code**: Terraform.
-  * **Automation**: Ansible, Puppet, Jenkins.
-  * **Containers**: Docker, **Openshift** (Red Hat Kubernetes Enterprise).
-  * **Serverless**: AWS Lambda.
-  * **Scripting and development**: Bash, Make, Python, Go, Groovy (Jenkins pipelines)
+  * **Kubernetes**: OpenShift (Red Hat Kubernetes Enterprise), AWS EKS.
+  * **Containers**: Docker, Podman.
+  * **K8s operators/controllers**: operator-sdk (go, ansible).
+  * **CI/CD**: GitOps ArgoCD, Tekton, Prow, GitHub Actions, Jenkins.
+  * **Security**: HashiCorp Vault
   * **Monitoring**: Prometheus, Grafana, Pingdom, AWS CloudWatch, StatusPage, Pagerduty.
+  * **Provision and administration**: Linux systems.
+  * **Scripting and development**: Bash, Make, Python, Go, Groovy (Jenkins pipelines)
+  * **Database administration**: MySQL, PostgreSQL, Redis, Elasticsearch, Memcached.
+  * **Config management**: Ansible, Puppet.
+  * **Serverless**: AWS Lambda.
   * **On call rotation**
   """
 
@@ -48,8 +53,9 @@ date_format = "Jan 2006"
   date_end = "2018-09-30"
   description = """
   *Accountabilities*
-  
-  * **Design, deployment and operation of cloud platforms**: AWS, GCP and Azure.
+
+  * **Design, deployment and operation of cloud platforms**
+  * **Public clouds:** AWS, GCP and Azure.
   * **Provision and administration**: Linux and Windows systems and containers.
   * **Database administration** : MySQL, PostgreSQL, Mongo, Redis, SQL Server, Elasticsearch, Memcached.
   * **Infrastructure as code**: Terraform, AWS CloudFormation, GCP DM, Azure ARM.
@@ -75,7 +81,7 @@ date_format = "Jan 2006"
   date_end = "2014-11-30"
   description = """
   *Accountabilities*
-  
+
   * **Systems administrator** of Linux, OpenEmbedded Linux distributions (ARM), firmware images creation through SDK (CoreCDP, Angstrom, Poky Linux, Yocto Project, Owasys, Raspbian...) and Windows CE devices.
   * **Communications/Networking**: LAN/WAN.
   * **Customers/Providers Management**: services, hardware, software...

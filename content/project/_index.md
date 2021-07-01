@@ -13,6 +13,6 @@ view: 2
 #  image: ""
 ---
 
-Open Source projects list in which I’ve been involved.
+Some Open Source projects in which I’ve been involved.
 
 ---
